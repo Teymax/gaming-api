@@ -1,0 +1,14 @@
+.env
+back-end/node_modules
+back-end/package-lock.json
+.idea
+back-end/logs/error.log
+.nyc_output
+/config/config.json
+npm-debug.log
+.history
+/.history
+back-end/logs/error.log
+back-end/.nyc_output
+back-end/config/config.json
+*.pyc
